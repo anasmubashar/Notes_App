@@ -1,4 +1,4 @@
-# hive_practice
+# Notes app
 
 A new Flutter project.
 
